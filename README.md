@@ -1,6 +1,6 @@
-# ML-Library-1
+# ML-Library
 
-Implementation of Basic Machine Learning ALgorithms in Python from scratch using Numpy and Pandas.Also illustrated using MNIST dataset. Project during Winter of Code at Cyber Labs.
+Implementation of Basic Machine Learning Algorithms in Python from scratch using Numpy and Pandas. Also illustrations using MNIST dataset. Project during Winter of Code at Cyber Labs.
 
 ## Algorithms
 
