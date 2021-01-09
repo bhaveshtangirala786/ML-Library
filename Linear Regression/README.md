@@ -1,6 +1,6 @@
 # Linear Regression
 
-![](Linear%20Regression/linear%20regression.png)
+![](linear%20regression.png)
 
 The algorithm is implemented in linear_reg.py and its usage is illustrated in Linear_Regression_illustration.ipynb
 
